@@ -14,6 +14,7 @@ arrays size calculation occurs at run-time stage hence this involves dynamic all
 C++.Elements can be accessed using their respective row and column indexes. The iteration uses mostly a two-fold loop:
 the outer one is run for rows while the inner one does columns. It enables you to treat or manipulate one element of an entire array.
 a
+```
 #include <iostream>
 
 //muliplication of matrix
